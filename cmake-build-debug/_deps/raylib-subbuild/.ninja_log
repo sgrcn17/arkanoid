@@ -1,0 +1,21 @@
+# ninja log v5
+1	190	7312812889703739	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	ccf82b32032fa454
+1	190	7312812889703739	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-mkdir	ccf82b32032fa454
+192	18668	7312813074545016	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	21710171e79d1647
+192	18668	7312813074545016	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-download	21710171e79d1647
+18672	18804	7312813075898048	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b9ff25e0257b0b87
+18672	18804	7312813075898048	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-update	b9ff25e0257b0b87
+18805	18974	7312813077605638	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	5fe374c0eb5d1f13
+18805	18974	7312813077605638	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-patch	5fe374c0eb5d1f13
+18975	19102	7312813078880155	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	47d1e136d4022cee
+18975	19102	7312813078880155	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-configure	47d1e136d4022cee
+19103	19228	7312813080135265	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1e9a17e6b68d4fe9
+19103	19228	7312813080135265	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-build	1e9a17e6b68d4fe9
+19228	19357	7312813081438451	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	d5ff4769a6a2f834
+19228	19357	7312813081438451	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-install	d5ff4769a6a2f834
+19358	19494	7312813082789622	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	59e6483aa93bb766
+19358	19494	7312813082789622	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-test	59e6483aa93bb766
+19495	19678	7312813084628087	CMakeFiles/raylib-populate-complete	9b8b1ea1bee453a1
+19495	19678	7312813084628087	raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9b8b1ea1bee453a1
+19495	19678	7312813084628087	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/CMakeFiles/raylib-populate-complete	9b8b1ea1bee453a1
+19495	19678	7312813084628087	C:/Kodowanie i Pierdoly/C++ Projects/arkanoid/cmake-build-debug/_deps/raylib-subbuild/raylib-populate-prefix/src/raylib-populate-stamp/raylib-populate-done	9b8b1ea1bee453a1
